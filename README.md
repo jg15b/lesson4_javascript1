@@ -13,8 +13,7 @@ Jamie Graves
 This assignment teaches the basic functions of JavaScript. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://jg15b.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. How to define varibales in JavaScript.
